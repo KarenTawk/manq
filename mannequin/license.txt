@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mannequin
+* source:	https://sketchfab.com/3d-models/mannequin-2614de372606482bac7cc7c1e7d78f34
+* author:	dfdsfg (https://sketchfab.com/chrisyopher595aaa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mannequin" (https://sketchfab.com/3d-models/mannequin-2614de372606482bac7cc7c1e7d78f34) by dfdsfg (https://sketchfab.com/chrisyopher595aaa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
